@@ -1,0 +1,337 @@
+{
+    "plantas":{
+        "01":{
+            "Nombre cientifico": "Agave amica",
+            "Conocida como": "Nardo",
+            "Color": ["Blanco", "Rosa", "Azul"],
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": ["Se utiliza ampliamente como planta ornamental. En floristería se emplea para arreglos florales y decoración.", "En Indonesia las flores se utilizan para elaborar diversos platos de sopas o salsa.", "De las flores se extrae el aceite esencial utilizado en perfumería desde hace siglos."],
+            "Img": ""
+        },
+        "02":{
+            "Nombre cientifico": "Agapanthus africanus",
+            "Conocida como": "Agapanto",
+            "Color": ["Blanco", "Azul", "Lila", "Rosa"],
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "Los nativos de Sudáfrica le dan diversos usos en pos de mejorar su salud de manera natural. Uno de ellos es la posibilidad de aliviar las molestias de los pies cansados. Solo basta envolverlos con unas hojas por 30 minutos y el alivio se sentirá gradualmente",
+            "Img": ""
+        },
+        "03":{
+            "Nombre cientifico": "Petunia",
+            "Conocida como": "Petunia",
+            "Color": ["Rosa", "Rojo", "Azul", "Violeta"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Son utilizadas en jardinería mundialmente, debido a la variedad de colores, tamaños y formas de sus flores, su facilidad de cultivo y su largo periodo de floración; en latitudes tropicales se extiende todo el año.",
+            "Img": ""
+        },
+        "04":{
+            "Nombre cientifico": "Dracaena fragrans",
+            "Conocida como": ["Tronco del Brasil", "Palo de agua"],
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "Se utiliza para eliminar los productos químicos del aire.",
+            "Img": ""
+        },
+        "05":{
+            "Nombre cientifico": "Bougainvillea",
+            "Conocida como": ["Veranera", "Trinitaria","Buganvilla", "Buganvilia"],
+            "Color": ["Blanco", "Rosa", "Amarillo", "Naranja", "Violeta", "Fucsia"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": ["Esta planta recibe un amplio uso medicinal tradicional en los estados del centro y sur del territorio mexicano, principalmente en casos de infecciones respiratorias como tos, asma, bronquitis y gripe.", "Se afirma que la bougainvillea también sirve como un buen tratamiento para la piel ya que sus propiedades antisépticas ayudan a prevenir el acné y las descamaciones."],
+            "Img": ""
+        },
+        "06":{
+            "Nombre cientifico": "Wisteria",
+            "Conocida como": ["Glicina", "Glicinia"],
+            "Color": ["Violeta", "Azul", "Blanco"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Se cultivan como plantas de decoración debido a sus racimos de flores primaverales y a su espeso follaje.",
+            "Img": ""
+        },
+        "07":{
+            "Nombre cientifico": "Salvia rosmarinus",
+            "Conocida como": "Romero",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": ["Con el aceite esencial que se extrae directamente de las hojas, se prepara alcohol de romero. Ha demostrado efectividad para paliar el dolor y la inflamación en personas con artrosis o artritis reumatoide, pero no en personas con fibromialgia.", "Se ha utilizado en fricciones como supuesto estimulante del cuero cabelludo para tratar o prevenir la calvicie", "La infusión de hojas de romero supuestamente alivia la tos y se ha usado para atajar los espasmos intestinales. Debe tomarse antes o después de las comidas.", "El humo de romero se usa como tratamiento para el asma.", "Por sus propiedades antisépticas, se puede aplicar por decocción sobre llagas y heridas como cicatrizante."],
+            "Img": ""
+        },
+        "08":{
+            "Nombre cientifico": "Culantrillo",
+            "Conocida como": ["Cabello de Venus", "Culantrillo de pozo"],
+            "Color": "Verde",
+            "Division": "Polypodiophyta",
+            "Clase": "Filicopsida",
+            "Uso": "Tiene diferentes usos medicinales entre las que podemos destacar propiedades antitusivas, pectoral, diurética así como tónico capilar y hepático.",
+            "Img": ""
+        },
+        "09":{
+            "Nombre cientifico": "Ocimum basilicum",
+            "Conocida como": "Albahaca",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Es frecuentemente usada en la cocina mediterránea; se puede consumir fresca o seca para aderezar tanto ensaladas, sopas de verduras, salsas para acompañar platos de pasta ―la famosa salsa italiana de pesto la lleva como ingrediente principal―, como guisos de todo tipo de carnes. ",
+            "Img": ""
+        },
+        "10":{
+            "Nombre cientifico": "Aloe vera",
+            "Conocida como": "Aloe vera",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "El Aloe vera se cultiva como planta decorativa, para usos medicinales, en cosmética e incluso para la alimentación en algunos países. Dos sustancias del Aloe vera, un gel transparente y su látex amarillo, se utilizan para fabricar productos comerciales. El gel de aloe se usa típicamente para hacer medicamentos tópicos para afecciones de la piel, como quemaduras, heridas, congelación, erupciones cutáneas, psoriasis, herpes labial o piel seca. El látex de aloe se usa individualmente o se fabrica como un producto con otros ingredientes que se ingiere para aliviar el estreñimiento.",
+            "Img": ""
+        },
+        "11":{
+            "Nombre cientifico": "Antirrhinum majus",
+            "Conocida como": "Boca de dragón",
+            "Color": ["Violeta", "Amarillo","Rosa", "Naranja"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Las diversas especies son plantadas en jardines por sus flores.",
+            "Img": ""
+        },
+        "12":{
+            "Nombre cientifico": "Anthurium",
+            "Conocida como": "Anturios",
+            "Color": ["Rojo", "Amarillo", "Verde", "Violeta"],
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "El anturio es utilizado como planta de interior, en maceta o en grandes cuencos junto a otras plantas de hojas ornamentales.",
+            "Img": ""
+        },
+        "13":{
+            "Nombre cientifico": "Aspidistra",
+            "Conocida como": "Pilistra",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "La aspidistra es una planta de interior muy resistente, que crece y embellece el rincón al que se le destina, sin apenas requerir cuidados.",
+            "Img": ""
+        },
+        "14":{
+            "Nombre cientifico": "Azalea",
+            "Conocida como": "Azalea",
+            "Color": ["Blanco", "Rosa","Naranja","Rojo"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Es utilizado como planta de interior, en maceta o en grandes cuencos junto a otras plantas de hojas ornamentales.",
+            "Img": ""
+        },
+        "15":{
+            "Nombre cientifico": "Calendula officinalis",
+            "Conocida como": ["Botón de oro", "Caléndula", "Mercadela", "Maravilla"],
+            "Color": ["Amarillo", "Naranja"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": ["Se usa como planta ornamental y desde hace siglos se utiliza como planta medicinal debido a sus cualidades terapéuticas.", "En gastronomía se pueden utilizar sus pétalos como colorante sustituto del azafrán.", "La Comisión E considera que la flor de caléndula tiene una acción antinflamatoria y fuertemente cicatrizante cuando se aplica de forma tópica."],
+            "Img": ""
+        },
+        "16":{
+            "Nombre cientifico": "Camellia",
+            "Conocida como": "Camellia",
+            "Color": ["Blanco", "Violeta", "Salmón", "Amarillo", "Rojo", "Rosa"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Tiene una gran importancia comercial porque el té se hace con sus hojas.",
+            "Img": ""
+        },
+        "17":{
+            "Nombre cientifico": "Campanula",
+            "Conocida como": "Campanillas",
+            "Color": ["Lila","Blanco","Azul"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Las diversas especies son plantadas en jardines por sus flores.",
+            "Img": ""
+        },
+        "18":{
+            "Nombre cientifico": "Coriandrum sativum",
+            "Conocida como": ["Cilantro", "Coriandro", "Perejil chino"],
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "El cilantro se usa para aromatizar y refrescar todo tipo de elaboraciones: ensaladas, salsas, sopas, guisos, adobos, pescados, carnes, escabeches, conservas, encurtidos e, incluso, smoothies, zumos y postres.",
+            "Img": ""
+        },
+        "19":{
+            "Nombre cientifico": "Dianthus caryophyllus",
+            "Conocida como": "Clavel",
+            "Color": ["Blanco", "Rojo","Rosa","Lila"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Tiene propiedades diuréticas, por lo que ayuda a controlar la hipertensión arterial y disminuir los edemas ocasionados por la acumulación de líquido en el cuerpo. Debido a que ejerce acción relajante sobre el sistema digestivo, ayuda también a mejorar problemas de estreñimiento y equilibrar el apetito.",
+            "Img": ""
+        },
+        "20":{
+            "Nombre cientifico": "Dahlia",
+            "Conocida como": "Dalia",
+            "Color": ["Blanco","Rojo","Naranja","Rosa","Lila"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La Dalia contiene inulina que es un prebiótico, que beneficia la digestión además de colaborar en la asimilación de ciertos minerales como el calcio y el magnesio. También es una fuente de alimento innocua, contribuye a disminuir triglicéridos, el colesterol así como bajar el peso.",
+            "Img": ""
+        },
+        "21":{
+            "Nombre cientifico": "Dracaena",
+            "Conocida como": "Drácena",
+            "Color": ["Verde","Rosa"],
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "Es un buen aliado en casa porque además de decorar, filtra los gases contaminantes del aire. Es una planta de follaje fino y, según la variedad, las hojas están matizadas en distintos colores.",
+            "Img": ""
+        },
+        "22":{
+            "Nombre cientifico": "Spathiphyllum",
+            "Conocida como": "Espatifilo",
+            "Color": ["Verde","Blanco"],
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "Es una de las plantas de interior más utilizadas para purificar el aire.",
+            "Img": ""
+        },
+        "23":{
+            "Nombre cientifico": "Ficus",
+            "Conocida como": "Ficus",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La importancia actual de los ficus reside en su uso como plantas ornamentales, tanto de interior, cultivadas en maceta, como para su cultivo al aire libre.",
+            "Img": ""
+        },
+        "24":{
+            "Nombre cientifico": "Gardenia",
+            "Conocida como": "Gardenia",
+            "Color": "Blanco",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Se conoce el uso de la gardenia como planta ornamental en jardines, patios y parques, o aromatizando habitaciones y espacios con el delicado perfume de sus flores. Su fragancia tiene una amplia utilización en la industria de la perfumería y la cosmética",
+            "Img": ""
+        },
+        "25":{
+            "Nombre cientifico": "Geranium",
+            "Conocida como": "Geranio",
+            "Color": ["Rojo","Rosa","Blanco","Violeta"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Se puede hacer un aceite esencial de geranio, que ofrece múltiples beneficios para la salud -principalmente la de nuestro cuerpo y nuestra piel- que se pueden atribuir a sus excelentes propiedades como limpiador, astringente, tónico, y para la prevención y tratamiento de arrugas.",
+            "Img": ""
+        },
+        "26":{
+            "Nombre cientifico": "Gerbera",
+            "Conocida como": "Gerbera",
+            "Color": ["Blanco","Amarillo","Naranja","Rojo","Rosa","Lila"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "El uso de esta flor es muy variado, más allá de ser una planta para decoración de interiores y como flor ornamental en floristerías es utilizada como una bebida aromática y como pomada para tratar dolores musculares y otras dolencias relacionadas.",
+            "Img": ""
+        },
+        "27":{
+            "Nombre cientifico": "Filicopsida",
+            "Conocida como": "Helecho",
+            "Color": "Verde",
+            "Division": "Monilophyta",
+            "Clase": "Filicopsida",
+            "Uso": "Tradicionalmente los helechos se han utilizado con fines ornamentales, medicinales, alimenticios, en la construcción y como sustrato de otras plantas y más recientemente en horticultura y como fertilizantes.",
+            "Img": ""
+        },
+        "28":{
+            "Nombre cientifico": "Hibiscus",
+            "Conocida como": "Hibiscus",
+            "Color": ["Rojo", "Blanco","Rosa","Amarillo","Violeta"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Como té, puede ser beneficioso para la presión arterial alta. Los ácidos de frutas en Hibiscus pueden funcionar como un laxante.",
+            "Img": ""
+        },
+        "29":{
+            "Nombre cientifico": "Hedera",
+            "Conocida como": "Hiedra",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La hoja de hiedra es una droga vegetal empleada desde la antigüedad con fines medicinales, cuyos extractos son ampliamente utilizados en el tratamiento de afecciones de vías respiratorias debido, principalmente, a su actividad expectorante y espasmolítica.",
+            "Img": ""
+        },
+        "30":{
+            "Nombre cientifico": "Hydrangea",
+            "Conocida como": "Hortensia",
+            "Color": ["Azul","Lila","Violeta","Rosa","Rojo","Blanco","Amarillo","Verde"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "Sus propiedades benefician, estimulan y favorecen el flujo de orina. Suele señalarse también, que el uso de hierbas diuréticas, aumenta el flujo de sangre a los riñones, reduce algunos síntomas de las infecciones del tracto urinario y ayuda en el pasaje de los cálculos renales.",
+            "Img": ""
+        },
+        "31":{
+            "Nombre cientifico": "Lavandula",
+            "Conocida como": "Lavanda",
+            "Color": "Lila",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La esencia de lavándula es un insumo importante de la industria cosmética y de perfumería, donde se la emplea para la elaboración de jabones, colonias, perfumes, etc. ",
+            "Img": ""
+        },
+        "32":{
+            "Nombre cientifico": "Bellis perennis",
+            "Conocida como": "Margarita",
+            "Color": ["Blanco","Amarillo","Rosa","Azul"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "En medicina tradicional, la margarita se utiliza para purificar la sangre, para estimular el metabolismo, el apetito, y como remedio para el estómago y el hígado. También es particularmente efectiva en los desequilibrios de la piel.",
+            "Img": ""
+        },
+        "33":{
+            "Nombre cientifico": "Mentha",
+            "Conocida como": "Menta",
+            "Color": "Verde",
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La menta es una de las plantas más utilizadas en todo tipo de desórdenes digestivos, como antiparasitario y para combatir cefaleas. Las hojas y sumidades floridas tienen propiedades estimulantes, estomáquicas, carminativas y antisépticas.",
+            "Img": ""
+        },
+        "34":{
+            "Nombre cientifico": "Orchidaceae",
+            "Conocida como": "Orquídea",
+            "Color": ["Rojo","Rosa","Naranja","Amarillo","Verde","Azul","Violeta"],
+            "Division": "Magnoliophyta",
+            "Clase": "Liliopsida",
+            "Uso": "En la medicina las orquídeas son documentadas por Hernández y Sahagún para curar la disentería, la tos, para “templar el calor” del estómago, para la mala digestión, heridas infectadas, hemorragias, dolor de cabeza, así como desinflamatorio y mitigador de fiebre.",
+            "Img": ""
+        },
+        "35":{
+            "Nombre cientifico": "Paeoniaceae",
+            "Conocida como": "Peonía",
+            "Color": ["Amarillo","Blanco","Rosa","Fucsia","Rojo"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La paeoniflorina es sedante, hipnótico, antitusivo, ligeramente espasmolítico, analgésico y anticonvulsivante.",
+            "Img": ""
+        },
+        "36":{
+            "Nombre cientifico": "Epipremnum aureum",
+            "Conocida como": "Potos",
+            "Color": "Verde",
+            "Division": "N/A",
+            "Clase": "Monocotyledoneae",
+            "Uso": "Es la planta perfecta para cultivar en una maceta colgante o en un recipiente en lo alto de una estantería. Dado su porte trepador, esta especie se suele usar en jardines verticales. Y no solo se emplea en la ornamentación de estancias interiores.",
+            "Img": ""
+        },
+        "37":{
+            "Nombre cientifico": "Saintpaulia",
+            "Conocida como": "Violeta africana",
+            "Color": ["Blanco","Azul","Violeta","Rosa"],
+            "Division": "Magnoliophyta",
+            "Clase": "Magnoliopsida",
+            "Uso": "La violeta africana es una planta idónea para espacios interiores, que destaca por su agradable aspecto, sus preciosas flores y sus pequeñas dimensiones.",
+            "Img": ""
+        }
+    }
+}
